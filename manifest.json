@@ -1,0 +1,25 @@
+{
+  "name": "Lot to Lot",
+  "short_name": "Lot to Lot",
+  "description": "CLSI EP26-Ed2 Lot-to-Lot Evaluation System",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4FAF6",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
